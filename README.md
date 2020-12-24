@@ -10,3 +10,4 @@ A dynamic menu for X written in C.
 - [gridnav](https://tools.suckless.org/dmenu/patches/gridnav)
 - [line-height](https://tools.suckless.org/dmenu/patches/line-height)
 - [numbers](https://tools.suckless.org/dmenu/patches/numbers)
+- [password](https://tools.suckless.org/dmenu/patches/password)
