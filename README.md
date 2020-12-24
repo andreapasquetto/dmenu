@@ -8,3 +8,4 @@ A dynamic menu for X written in C.
 - [center](https://tools.suckless.org/dmenu/patches/center)
 - [grid](https://tools.suckless.org/dmenu/patches/grid)
 - [gridnav](https://tools.suckless.org/dmenu/patches/gridnav)
+- [line-height](https://tools.suckless.org/dmenu/patches/line-height)
