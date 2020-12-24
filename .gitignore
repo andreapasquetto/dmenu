@@ -1,0 +1,5 @@
+patches/
+dmenu
+stest
+*.o
+*.rej

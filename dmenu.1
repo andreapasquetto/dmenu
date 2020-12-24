@@ -1,0 +1,43 @@
+.TH DMENU 1 dmenu\-VERSION
+.SH NAME
+dmenu \- dynamic menu
+.SH SYNOPSIS
+.B dmenu
+.RB [ \-bfiv ]
+.RB [ \-l
+.IR lines ]
+.RB [ \-m
+.IR monitor ]
+.RB [ \-p
+.IR prompt ]
+.RB [ \-fn
+.IR font ]
+.RB [ \-nb
+.IR color ]
+.RB [ \-nf
+.IR color ]
+.RB [ \-sb
+.IR color ]
+.RB [ \-sf
+.IR color ]
+.RB [ \-w
+.IR windowid ]
+.P
+.BR dmenu_run " ..."
+.SH DESCRIPTION
+.B dmenu
+is a dynamic menu for X, which reads a list of newline\-separated items from
+stdin.  When the user selects an item and presses Return, their choice is printed
+to stdout and dmenu terminates.  Entering text will narrow the items to those
+matching the tokens in the input.
+.P
+.B dmenu_run
+is a script used by
+.IR dwm (1)
+which lists programs in the user's $PATH and runs the result in their $SHELL.
+.SH OPTIONS
+See
+.B config.h
+.SH SEE ALSO
+.IR dwm (1),
+.IR stest (1)
