@@ -6,3 +6,4 @@ A dynamic menu for X written in C.
 
 - [border](https://tools.suckless.org/dmenu/patches/border)
 - [center](https://tools.suckless.org/dmenu/patches/center)
+- [grid](https://tools.suckless.org/dmenu/patches/grid)
