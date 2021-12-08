@@ -20,3 +20,4 @@ A dynamic menu fox X written in C.
 
 - [border](https://tools.suckless.org/dmenu/patches/border)
 - [center](https://tools.suckless.org/dmenu/patches/center)
+- [fuzzymatch](https://tools.suckless.org/dmenu/patches/fuzzymatch)
