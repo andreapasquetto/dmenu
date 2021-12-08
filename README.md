@@ -15,3 +15,7 @@ A dynamic menu fox X written in C.
     ```sh
     make && sudo make clean install
     ```
+
+## Patches
+
+- [border](https://tools.suckless.org/dmenu/patches/border)
