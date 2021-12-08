@@ -16,8 +16,9 @@ A dynamic menu fox X written in C.
     make && sudo make clean install
     ```
 
-## Patches
+## Features and Patches
 
+- Support for color fonts
 - [border](https://tools.suckless.org/dmenu/patches/border)
 - [center](https://tools.suckless.org/dmenu/patches/center)
 - [fuzzymatch](https://tools.suckless.org/dmenu/patches/fuzzymatch)
