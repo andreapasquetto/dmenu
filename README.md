@@ -22,3 +22,4 @@ A dynamic menu fox X written in C.
 - [center](https://tools.suckless.org/dmenu/patches/center)
 - [fuzzymatch](https://tools.suckless.org/dmenu/patches/fuzzymatch)
 - [grid](https://tools.suckless.org/dmenu/patches/grid)
+- [gridnav](https://tools.suckless.org/dmenu/patches/gridnav)
